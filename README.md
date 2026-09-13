@@ -33,7 +33,7 @@ Under this lens the gap widened a lot: in the onshore gearbox scenario, AutoGluo
 
 ## Setup
 
-Developed in Google Colab, reading data from Google Drive — update the file paths at the top of each notebook to point to your own copy of the [CARE to Compare dataset](https://www.kaggle.com/datasets/azizkasimov/wind-turbine-scada-data-for-early-fault-detection) (Wind Farm A) to rerun. Run the baseline and two AutoML notebooks first, then `Model_Comparison.ipynb` and `Novelty_Cost_Senstive_Evaluation.ipynb`.
+Developed in Google Colab, reading data from Google Drive — update the file paths at the top of each notebook to point to your own copy of the [CARE to Compare dataset](https://www.kaggle.com/datasets/azizkasimov/wind-turbine-scada-data-for-early-fault-detection) (Wind Farm A) to rerun. Run the baseline and two AutoML notebooks first, then `Model_Comparison.ipynb` and `Novelty_Cost_Sensitive_Evaluation.ipynb`.
 
 ## Planned next steps
 
